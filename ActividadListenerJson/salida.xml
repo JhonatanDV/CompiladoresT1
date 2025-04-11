@@ -1,0 +1,21 @@
+<descripcion>
+Archivo de configuración del servidor
+</descripcion>
+<logs>
+<nivel>
+verbose
+</nivel>
+<dir>
+/var/log
+</dir>
+
+</logs>
+<host>
+antlr.org
+</host>
+<admin>
+
+</admin>
+<alias>
+
+</alias>

@@ -1,0 +1,27 @@
+[
+  {
+    "Mes": "Enero",
+    "Cantidad": "1000.0",
+    "Descripción": "Ingreso por venta"
+  },
+  {
+    "Mes": "Febrero",
+    "Cantidad": "500.0",
+    "Descripción": "Compra de insumos"
+  },
+  {
+    "Mes": "Marzo",
+    "Cantidad": "\"\"",
+    "Descripción": "Pago pendiente"
+  },
+  {
+    "Mes": "Enero",
+    "Cantidad": "1000.0",
+    "Descripción": "Ingreso por venta"
+  },
+  {
+    "Mes": "Junio",
+    "Cantidad": "1200.0",
+    "Descripción": "Venta adicional"
+  }
+]
